@@ -17,7 +17,7 @@ We have added the Recording function to the **HelloAR** project.
 - Switch Platform to Android. And build it.
 
 # Demo App
-- We are providing the apk file for quickly use.
+- We are providing the apk file (HelloARCoreRecord_v0.1.apk) for quickly use.
 
 ## Recording mode
 - When the Record button is pressed, the button changes to red.
