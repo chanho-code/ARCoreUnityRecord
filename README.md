@@ -10,7 +10,7 @@ We have added the Recording function to the **HelloAR** project.
 # Try it !!
 - Download the ARCoreUnityRecord project.
 - Run the project in Unity.
-- Try to find and open the HelloARRecord scene.
+- Try to find and open the HelloARRecord scene (GoogleARCore/Examples/HelloAR/Scenes/HelloARRecord).
 - Switch Platform to Android. And build it.
 
 # Reference
