@@ -21,7 +21,7 @@ We have added the Recording function to the **HelloAR** project.
 
 ## Recording mode
 - When the Record button is pressed, the button changes to red.
-- Save RGB, IMU, and the custom data (pose of virtual object placed by touch) in MP4 (path: Application.persistentDataPath + "/" + "test.mp4").
+- Save RGB, IMU, and the custom data (pose of virtual object placed by touch) in MP4 format (path: Application.persistentDataPath + "/" + "test.mp4").
 - To stop, press the Record button again.
 
 ## Playback mode
